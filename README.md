@@ -1,4 +1,4 @@
-# ML-Diabetes-Classification
+# Machine Learning - Diabetes Classification
 
 This project was completed for a course in Bachelor of Information Systems (Hons.) Intelligent
 Systems Engineering UITM
