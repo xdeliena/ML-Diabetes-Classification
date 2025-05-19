@@ -1,5 +1,8 @@
 # ML-Diabetes-Classification
 
+This project was completed for a course in Bachelor of Information Systems (Hons.) Intelligent
+Systems Engineering UITM
+
 1. Introduction
 
 Diabetes is a chronic condition marked by elevated blood glucose levels, leading to serious complications such as cardiovascular disease, kidney failure, and vision loss. As of 2014, over 422 million individuals were affected globally. Contributing factors include aging, obesity, and sedentary lifestyles. Early diagnosis and effective management are essential. Machine learning offers promising tools to enhance diabetes detection and treatment by identifying complex patterns in health data.
